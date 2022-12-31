@@ -1,1 +1,1 @@
-# Texas-Hold-em-Evaluator
+# Texas-Holdem-Evaluator
