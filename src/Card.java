@@ -1,4 +1,4 @@
-package poker;
+
 
 public class Card {
     private short rank, suit;
@@ -29,5 +29,4 @@ public class Card {
     {
         return ranks[rank] + " of " + suits[suit];
     }
-
 }
